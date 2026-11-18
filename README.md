@@ -105,5 +105,9 @@ So the problem wasn't bad promises in general. Promises didn't keep up with a ne
 - Freight cost as % of order value by region
 - Rebuild the analysis in SQL and as a Tableau Public dashboard with a map
 
+## Files
+- `olist_analysis_github.xlsb`: Excel workbook with the cleaned orders table and all pivots (saved as .xlsb to stay under GitHub's size limit; opens in Excel)
+- `late_by_month.png`, `promised_vs_actual.png`: charts used above
+
 ## Tools
 Excel: XLOOKUP, SUMIFS, pivot tables, PivotCharts (combo chart with secondary axis)
