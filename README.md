@@ -2,6 +2,8 @@
 
 Where and when do online orders arrive late, and how much does it cost in customer reviews?
 
+**[View the interactive Tableau dashboard](https://public.tableau.com/views/OlistLateDeliveriesDashboard/OlistDeliveryDashboard)**
+
 **Key findings**
 - Late orders (6.8% of 96K) average **2.3 stars vs. 4.3** for on-time orders.
 - The Northeast and Rio de Janeiro run about **2x** the national late rate.
