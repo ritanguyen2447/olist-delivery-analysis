@@ -84,6 +84,8 @@ Only about 1 in 15 orders arrives late, but those orders score almost half as we
 
 So the problem wasn't bad promises in general. Promises didn't keep up with a network that was running slower.
 
+![Promised vs. actual delivery days](promised_vs_actual.png)
+
 ## Recommendations
 1. **Plan for peak.** Add carrier capacity or lengthen delivery promises before Black Friday and other known peaks.
 2. **Set promises by region.** Use the approach that already works in far-north states for the Northeast: promise what the network can actually deliver.
